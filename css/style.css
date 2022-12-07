@@ -1,0 +1,136 @@
+body{
+  text-align: center;
+
+}
+
+.top{
+  background-image: url(image/istockphoto-1131535622-170667a.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+
+}
+.holi{
+padding-top: 200px;
+left: 250px;
+bottom: 200px;
+
+}
+h1{
+  font-family: 'Lobster', cursive;
+  color: #EFF5F5;
+  font-size: 100px;
+
+}
+.intro-img{
+  height: 300px;
+  width: 200px;
+  margin-top: 40px;
+}
+.intro{
+  text-align:center;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: 1.25rem;
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-width: 5px;
+  width: 50px;
+  margin: 100px,auto;
+}
+.world{
+  background-image: url(image/resizer.jpg);
+  margin-right: 150px;
+  margin-left: 200px;
+  margin-right: 200px
+
+}
+.world1{
+  margin-left:300px;
+  margin-right: 300px;
+
+}
+.singapore{
+  float: left;
+  height: 200px;
+  width: 200px;
+  border-radius: 25%;
+  margin-right: 40px;
+}
+p{
+  text-align: justify;
+  font-size:1.25rem;
+  line-height: 2;
+
+}
+.southafrica1{
+  float: right;
+  height: 200px;
+  width: 200px;
+  border-radius: 25%;
+  margin-left: 40px;
+}
+.oxford{
+  float: left;
+  height: 200px;
+  width: 200px;
+  border-radius: 25%;
+  margin-right: 40px
+}
+h3{
+  font-size: 2rem;
+  color: red;
+}
+h2{
+  font-size: 1.75rem;
+  color: blue;
+
+}
+.buttonClass {
+  font-size:19px;
+  font-family:Arial;
+  width:140px;
+  height:51px;
+  border-width:3px;
+  color:#fff;
+  border-color:#18ab29;
+  font-weight:normal;
+  border-top-left-radius:20px;
+  border-top-right-radius:20px;
+  border-bottom-left-radius:20px;
+  border-bottom-right-radius:20px;
+  text-shadow: 1px 1px 0px #2f6627;
+  background:#44c767;
+  padding-top: 5px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-decoration: none;
+}
+
+.buttonClass:hover {
+  background: #5cbf2a;
+  color:#FBFACD;
+}
+.bottom{
+background-color:#96ebe9;
+margin-top: 20px;
+padding-top:90px;
+padding-bottom: 100px;
+
+}
+.footer-link{
+  font-family: 'Sacramento', cursive;
+  color: #11999E;
+  margin: 10px 15px;
+  font-size: 30px;
+  text-decoration: none;
+
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
+}
